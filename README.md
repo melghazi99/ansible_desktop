@@ -6,9 +6,9 @@ Using Vagrant to provision VMs:
 - kmaster : kubernetes controlplane node
 - node-01, node-02 and node-03 : nodes for our workloads
 
-Using Ansible for:
-- configuring VMs (installing packages, updating, patching)
-- Installing packages.
-- Installing kubernetes on controlplane and nodes.
-- creating users
-- Configuring k8s access
+Using Ansible to:
+- confige VMs (installing packages, updating, patching)
+- Install packages.
+- Install kubernetes on controlplane and nodes.
+- create users
+- Confige k8s access
